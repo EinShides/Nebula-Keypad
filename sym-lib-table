@@ -1,0 +1,6 @@
+(sym_lib_table
+  (lib (name keyboard_parts)(type Legacy)(uri ${KIPRJMOD}/kicad_lib_tmk/keyboard_parts.lib)(options "")(descr ""))
+  (lib (name random-keyboard-parts)(type Legacy)(uri "${KIPRJMOD}/random-keyboard-parts.pretty-master/Schematic Library/random-keyboard-parts.lib")(options "")(descr ""))
+  (lib (name random-keyboard-parts-2)(type Legacy)(uri "${KIPRJMOD}/random-keyboard-parts.pretty-master/Schematic Library/random-keyboard-parts-2.lib")(options "")(descr ""))
+  (lib (name oled-oled)(type Legacy)(uri ${KIPRJMOD}/kicad_lib_tmk/oled-oled.lib)(options "")(descr ""))
+)
